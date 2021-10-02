@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Test Stack</h3>
 <p>
-   <img alt="Jest" src="https://img.shields.io/badge/Jest-916F79.svg?logo=jest&logoColor=white"></img> 
-   <img alt="RSpec" style="widht: 2vh; height: 2vh;" src="https://iconape.com/wp-content/png_logo_vector/rspec-logo.png"></img> 
+   <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"></img> 
+   <img alt="RSpec" style="widht: 2rem; height: 2rem;" src="https://iconape.com/wp-content/png_logo_vector/rspec-logo.png"></img> 
 </p>
 
 
