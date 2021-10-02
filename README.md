@@ -61,7 +61,9 @@ Here are some ideas to get you started:
 </a>
 </p>
 ---
+  
 ![Snake animation](https://svgshare.com/i/_CU.svg)
+
 ---
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=enesdindas.enesdindas)
 </div>
