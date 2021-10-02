@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=03A062&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+ns.+A+Software+Engineer.;Follow+the+White+Rabbit...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=03A062&center=true&vCenter=true&width=600&lines=Hello+Friend%2C;I'm+ns.+A+Software+Engineer.;Follow+the+White+Rabbit...)
 
 ---
 
