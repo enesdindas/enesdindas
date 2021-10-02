@@ -21,12 +21,10 @@ Here are some ideas to get you started:
 
 ---
 
-  <ul style="list-style: none;">
-    <li>🔭 I’m currently working on [@remoteteam](https://github.com/remoteteamcom)</li>
-    <li>👯 I’m looking to collaborate on rails and node projects</li>
-    <li>📫 How to reach me: enesdindas26@gmail.com</li>
-    <li>😄 Pronouns: ns</li>
-  </ul>  
+- 🔭 I’m currently working on [@remoteteam](https://github.com/remoteteamcom)
+- 👯 I’m looking to collaborate on rails and node projects
+- 📫 How to reach me: enesdindas26@gmail.com
+- 😄 Pronouns: ns
 
 <!-- - 🌱 I’m currently learning GoLang -->
 <!-- - 🤔 I’m looking for help with ... -->
