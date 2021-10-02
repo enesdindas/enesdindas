@@ -62,6 +62,7 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Amazon Dynamo DB" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 </a>
 </p>
+
 ---
   
 ![Snake animation](https://svgshare.com/i/_CU.svg)
