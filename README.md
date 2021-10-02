@@ -9,10 +9,7 @@ Here are some ideas to get you started:
 <div align="center">
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=03A062&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+ns.+A+Software+Engineer.;Follow+the+White+Rabbit...)
-<!-- - 🌱 I’m currently learning GoLang -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - ⚡ Fun fact: ... -->
+
 ---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=enesdindas&theme=radical)](https://git.io/streak-stats)
@@ -30,6 +27,11 @@ Here are some ideas to get you started:
     <li>📫 How to reach me: enesdindas26@gmail.com</li>
     <li>😄 Pronouns: ns</li>
   </ul>  
+
+<!-- - 🌱 I’m currently learning GoLang -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+<!-- - ⚡ Fun fact: ... -->
 
 ---
 <h3 align="left">Frontend Stack</h3>
