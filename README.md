@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [@remoteteam](https://github.com/remoteteamcom)
 - 👯 I’m looking to collaborate on rails and node projects
 - 📫 How to reach me: enesdindas26@gmail.com
+- 🌱 I’m currently learning [Rails](https://github.com/rails/rails)(mostly) and [GoLang](https://github.com/golang/go)
 - 😄 Pronouns: ns
 
-<!-- - 🌱 I’m currently learning GoLang -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - ⚡ Fun fact: ... -->
