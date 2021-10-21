@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=enesdindas&theme=radical)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enesdindas&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enesdindas&layout=compact&theme=radical)
 
 ---
 
