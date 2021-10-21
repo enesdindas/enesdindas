@@ -12,12 +12,11 @@ Here are some ideas to get you started:
 
 ---
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enesdindas&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enesdindas&layout=compact&theme=radical)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=enesdindas&show_icons=true&theme=radical)
-](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=enesdindas&show_icons=true&theme=radical)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=enesdindas&theme=radical)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=enesdindas&theme=radical)
   
 ---
 
