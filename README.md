@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ---
 
-- 🔭 I’m currently working on [@remoteteam](https://github.com/remoteteamcom)
-- 👯 I’m looking to collaborate on rails and node projects
-- 📫 How to reach me: enesdindas26@gmail.com
-- 🌱 I’m currently learning [Rails](https://github.com/rails/rails)(mostly) and [GoLang](https://github.com/golang/go)
+- ⚡
 - 😄 Pronouns: ns
+- 🔭 I’m currently working on [@gusto](https://github.com/gusto)
+- 📫 How to reach me: enesdindas26@gmail.com
+- 👯 I’m looking to collaborate on rails and node projects
 
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
@@ -60,10 +60,13 @@ Here are some ideas to get you started:
 </a>
 </p>
 
+<!--  
 ---
-  
-![Snake animation](https://svgshare.com/i/_CU.svg)
+
+![Snake animation](https://svgshare.com/i/_CU.svg) 
+-->
 
 ---
+  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=enesdindas.enesdindas)
 </div>
