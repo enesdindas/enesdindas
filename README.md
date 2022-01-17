@@ -1,11 +1,4 @@
 
-<!--
-**enesdindas/enesdindas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
-
 <div align="center">
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=03A062&center=true&vCenter=true&width=600&lines=Hello+Friend%2C;I'm+ns.+A+Software+Engineer.;Follow+the+White+Rabbit...)
@@ -33,8 +26,9 @@ Here are some ideas to get you started:
 ---
 <h3 align="left">Frontend Stack</h3>
 <p>
+   <img alt="React" src="https://img.shields.io/badge/reactjs-%2335495e.svg?style=for-the-badge&logo=react"></img>
    <img alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></img>
-   <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></img>
+   <img alt="Angular" src="https://img.shields.io/badge/angular-%2335495e.svg?style=for-the-badge&logo=angular"></img>
 </p>
 
 <h3 align="left">Backend Stack</h3>
