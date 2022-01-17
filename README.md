@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=03A062&center=true&vCenter=true&width=600&lines=Hello+Friend%2C;I'm+ns.+A+Software+Engineer.;Follow+the+White+Rabbit...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=03A062&center=true&vCenter=true&width=600&lines=Hello+Friend%2C;I'm+ns.+A+Software+Engineer.)
 
 ---
 
@@ -26,9 +26,8 @@
 ---
 <h3 align="left">Frontend Stack</h3>
 <p>
-   <img alt="React" src="https://img.shields.io/badge/reactjs-%2335495e.svg?style=for-the-badge&logo=react"></img>
-   <img alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></img>
-   <img alt="Angular" src="https://img.shields.io/badge/angular-%2335495e.svg?style=for-the-badge&logo=angular"></img>
+   <img alt="React" src="https://img.shields.io/badge/reactjs-%2335495e.svg?style=for-the-badge&logo=react&color=blue&logoColor=white"></img>
+   <img alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs"></img>
 </p>
 
 <h3 align="left">Backend Stack</h3>
@@ -49,16 +48,9 @@
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"></a>
-    <a href="#"><img alt="Amazon Dynamo DB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white">
-    <a href="#"><img alt="Amazon Dynamo DB" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+    <a href="#"><img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 </a>
 </p>
-
-<!--  
----
-
-![Snake animation](https://svgshare.com/i/_CU.svg) 
--->
 
 ---
   
