@@ -50,6 +50,13 @@
     <a href="#"><img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"></a>
     <a href="#"><img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 </a>
+  
+<h3 align="left">Editors</h3>
+<p>
+    <a href="#"><img alt="VIM" src ="https://img.shields.io/badge/nvim-%234ea94b.svg?style=for-the-badge&logo=neovim&logoColor=white&color=black"></a>
+    <a href="#"><img alt="VIM" src ="https://img.shields.io/badge/vim-%234ea94b.svg?style=for-the-badge&logo=vim&logoColor=white&color=black"></a>
+    <a href="#"><img alt="VSCode" src ="https://img.shields.io/badge/vscode-%234ea94b.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=blue"></a>
+</a>
 </p>
 
 ---
