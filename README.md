@@ -39,7 +39,7 @@
 <h3 align="left">Test Stack</h3>
 <p>
    <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"></img> 
-   <img alt="RSpec" style="widht: 2rem; height: 2rem;" src="https://iconape.com/wp-content/png_logo_vector/rspec-logo.png"></img> 
+   <img alt="RSpec" src="https://img.shields.io/badge/rspec-FF0000?style=for-the-badge&color=red"></img> 
 </p>
 
 
