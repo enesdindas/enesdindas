@@ -17,7 +17,7 @@
 - 😄 Pronouns: ns
 - 🔭 I’m currently working on [@gusto](https://github.com/gusto)
 - 📫 How to reach me: enesdindas26@gmail.com
-- 👯 I’m looking to collaborate on rails and node projects
+- 👯 I’m looking to collaborate on RoR, node and Go projects
 
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
