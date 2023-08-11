@@ -34,6 +34,7 @@
 <p>
    <img alt="Ruby on Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"></img>
    <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></img>
+   <img alt="Go" src="https://img.shields.io/badge/golang-34b1eb?style=for-the-badge&logo=go&logoColor=white"></img>
 </p>
 
 <h3 align="left">Test Stack</h3>
@@ -53,8 +54,7 @@
   
 <h3 align="left">Editors</h3>
 <p>
-    <a href="#"><img alt="VIM" src ="https://img.shields.io/badge/nvim-%234ea94b.svg?style=for-the-badge&logo=neovim&logoColor=white&color=black"></a>
-    <a href="#"><img alt="VIM" src ="https://img.shields.io/badge/vim-%234ea94b.svg?style=for-the-badge&logo=vim&logoColor=white&color=black"></a>
+    <a href="#"><img alt="NVIM" src ="https://img.shields.io/badge/nvim-%234ea94b.svg?style=for-the-badge&logo=neovim&logoColor=white&color=black"></a>
     <a href="#"><img alt="VSCode" src ="https://img.shields.io/badge/vscode-%234ea94b.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=blue"></a>
 </a>
 </p>
