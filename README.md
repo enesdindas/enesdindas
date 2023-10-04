@@ -2,8 +2,6 @@
 <div align="center">
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=03A062&center=true&vCenter=true&width=600&lines=Hello+Friend%2C;>;>;>)
-
----
   
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enesdindas&layout=compact&theme=radical) -->
 
