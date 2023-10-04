@@ -4,10 +4,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=03A062&center=true&vCenter=true&width=600&lines=Hello+Friend%2C;>;>;>)
 
 ---
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=enesdindas&show_icons=true&theme=radical) -->
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=enesdindas&theme=radical)
   
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enesdindas&layout=compact&theme=radical) -->
 
