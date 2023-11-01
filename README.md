@@ -28,7 +28,6 @@
 <p>
    <img alt="Ruby on Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"></img>
    <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></img>
-   <img alt="Go" src="https://img.shields.io/badge/golang-34b1eb?style=for-the-badge&logo=go&logoColor=white"></img>
 </p>
 
 <h3 align="left">Test Stack</h3>
