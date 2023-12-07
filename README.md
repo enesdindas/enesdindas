@@ -6,18 +6,6 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enesdindas&layout=compact&theme=radical) -->
 
 ---
-
-- ⚡
-- 😄 Pronouns: ns
-- 🔭 I’m currently working on [@gusto](https://github.com/gusto)
-- 📫 How to reach me: enesdindas26@gmail.com
-- 👯 I’m looking to collaborate on RoR, node and Go projects
-
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - ⚡ Fun fact: ... -->
-
----
 <h3 align="left">Frontend Stack</h3>
 <p>
    <img alt="React" src="https://img.shields.io/badge/reactjs-%2335495e.svg?style=for-the-badge&logo=react&color=blue&logoColor=white"></img>
